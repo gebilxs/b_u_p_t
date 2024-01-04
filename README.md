@@ -1,3 +1,6 @@
+# BUPT保研测试项目-通过webRTC实现unity两个游戏的屏幕捕捉
+
+
 要实现这个功能，您需要使用Unity的WebRTC Package，在一个游戏中捕捉画面并将其传输到另一个游戏中。以下是实现该功能的大致步骤：
 
 1. 在两个Unity项目中分别安装WebRTC Package： 打开Unity Package Manager (Window -> Package Manager)，然后搜索并安装"WebRTC"。
